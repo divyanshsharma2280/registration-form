@@ -1,0 +1,53 @@
+#email{
+    text-align: right;
+}
+
+input {
+    display:block;
+    width:30%;
+    padding:7px;
+    text-align: center;
+    margin-left:34.5%;
+    margin-top: 10px;
+  }
+
+  .type-1 {
+    border-radius:10px;
+    border: 2px solid #887d7d;
+    transition: .1s border-color;
+    ;
+  }
+  .type-1:hover {
+    background-color:#edefe9;
+    border: 1px solid #aaa;
+  }
+
+  div{
+    text-align: center;
+  }
+
+.Noob{
+    background-color: rgba(136, 127, 127, 0.9); /* Specify the desired background color and opacity */
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+
+}
+
+.h2{
+    border-radius: 10px;
+    display: inline-table;
+    border: 2px solid #020202;
+    padding: 7px;
+    background-color: rgb(211, 210, 196)
+}
+
+.h3{
+    border-radius: 10px;
+    display: inline-table;
+    border: 2px solid #020202;
+    padding: 6px;
+    background-color: rgb(201, 200, 186)
+}
+
+  
